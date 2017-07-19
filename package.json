@@ -1,5 +1,5 @@
 {
-  "name": "markdown-to-json",
+  "name": "markdown-to-json-files",
   "version": "1.0.1",
   "main": "index.js",
   "repository": "https://github.com/escaladesports/markdown-to-json.git",
