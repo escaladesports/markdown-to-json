@@ -23,6 +23,4 @@ temp
 tmp
 temp-*
 uploads
-
-# Remove for production
-img
+out
