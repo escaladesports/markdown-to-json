@@ -1,6 +1,6 @@
 {
   "name": "markdown-to-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "https://github.com/escaladesports/markdown-to-json.git",
   "author": "Kennedy Rose <kennedy@escaladesports.com>",
