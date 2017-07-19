@@ -1,0 +1,13 @@
+{
+  "name": "markdown-to-json",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/escaladesports/markdown-to-json.git",
+  "author": "Kennedy Rose <kennedy@escaladesports.com>",
+  "license": "MIT",
+  "dependencies": {
+    "metalsmith": "^2.3.0",
+    "metalsmith-markdown": "^0.2.1",
+    "metalsmith-to-json": "^1.0.0"
+  }
+}
