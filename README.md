@@ -6,7 +6,7 @@ A Node promise function the converts a directory of markdown files into a direct
 
 ```js
 const mdToJson = require('markdown-to-json-files')
-mdToJson('./src', './out')
+mdToJson(__dirname, './src', './out')
 	.then(() => console.log('Done!'))
 	.catch(console.error)
 ```
